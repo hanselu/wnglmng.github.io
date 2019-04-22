@@ -9,6 +9,8 @@ tags: 'HTTP'
 author: WngLMng
 ---
 
+![](/assets/images/201904/413-request-entity-too-large-lg.png)
+
 ## 413 Request Entity Too Large 是什么意思
 当一个 request 请求内容太大，从客服端到服务端请求处理的时候，就可能会发生 413 request entity too large 这种错误。如果你的服务端设置了 HTTP 请求大小限制，客户端就会响应 413 request entity too large。举个例子，客户端尝试上传一个大文件到服务端。
 
