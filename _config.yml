@@ -9,6 +9,8 @@
 # Site settings
 title: WngLMng
 email: wnglmng@qq.com
+author: WngLMng
+keywords: "王立明, WngLMng"
 description: A coder.
 baseurl: "" # the subpath of your site, e.g. /blog
 lang: "zh-cn"
