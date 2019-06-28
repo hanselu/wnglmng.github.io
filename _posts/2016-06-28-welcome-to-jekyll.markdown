@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 crawlertitle: "How to use jekyll"
 summary: "Welcome to Jekyll!"
-date:   2016-06-28 23:09:47 +0700
+date:   2016-06-28 23:09:47 +0800
 categories: posts
 tags: 'jekyll'
 author: redVi
